@@ -19,7 +19,7 @@ function App() {
 		<div className="App">
 			<Navigation cart={cart} />
 
-			{/* Routes */}
+			{/* Routes */} 
 			<Route
 				exact
 				path="/"
